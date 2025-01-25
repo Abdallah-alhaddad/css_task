@@ -1,0 +1,83 @@
+.box1 {
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    position: relative;
+   left: 30px;
+   top: 30px;
+}
+.box2 {
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0, 0, 0);
+}
+.box3 {
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(43, 177, 119);
+}
+.box4 {
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(201, 143, 36);
+}
+.box5 {
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(46, 21, 116);
+}
+.box6 {
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(145, 33, 94);
+}
+.box7 {
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(73, 13, 19);
+}
+.box8 {
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(24, 122, 26);
+}
+.box9 {
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(134, 152, 116);
+}
+.box10 {
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(149, 157, 38);
+}
+.box11 {
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(79, 160, 102);
+}
+.box12 {
+    border: 1px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(47, 30, 64);
+}
+body{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  width: 50 px;
+  position: static
+}
+

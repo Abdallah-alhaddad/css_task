@@ -1,0 +1,37 @@
+.box1{
+border: 1px;
+height: 100px;
+width: 100px;
+background-color: aqua;
+position: absolute;
+top: 0;
+}
+.box2{
+    border: 1px;
+height: 100px;
+width: 100px;
+background-color: rgb(212, 0, 255);
+position: absolute;
+top: 0;
+right: 0;
+
+}
+.box3{
+    border: 1px;
+height: 100px;
+width: 100px;
+background-color: rgb(43, 13, 210);
+position: absolute;
+bottom: 0;
+
+}
+.box4{
+    border: 1px;
+height: 100px;
+width: 100px;
+background-color: rgb(220, 7, 49);
+position: absolute;
+bottom: 0;
+right: 0;
+
+}

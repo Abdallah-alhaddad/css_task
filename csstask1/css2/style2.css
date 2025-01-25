@@ -1,0 +1,37 @@
+.overflow { background-color: red;
+    border: solid black 1px ; height: 50px;
+    overflow: hidden;
+
+}
+.overflow2{
+    background-color: rgb(83, 217, 139);
+    border: solid black 1px ; height: 50px;
+    overflow: visible;
+
+}
+.overflow3{
+    background-color: rgb(47, 47, 190);
+    border: solid black 1px ; height: 50px;
+    overflow:scroll;
+
+}
+.overflow4{
+    background-color: rgb(177, 135, 122);
+    border: solid black 1px ; height: 50px;
+    overflow: auto;
+
+}
+.overflow5{
+    background-color: rgb(200, 73, 113);
+    border: solid black 1px ; height: 50px;
+     overflow-y:auto ;
+     overflow-x: auto;
+
+}
+.scroll{
+    border:solid black; width: 400px;
+    background-color: black;
+    color: aliceblue;
+    overflow: scroll;
+    height: 200px;
+}

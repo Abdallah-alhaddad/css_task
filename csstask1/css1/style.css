@@ -1,0 +1,27 @@
+
+
+
+.pink{
+    color: pink;
+    font-size: 8px;
+}
+.yellow{
+    color: yellow;
+    font-size: 3rem;
+}
+.img{
+    background-image: url('./zin.jpg');
+    padding: 20px;
+    justify-content:space-around;
+}
+.vimg{
+    color: aqua;
+    background-image : url('./zin.jpg' ) ;
+    
+    background-image: url('zin.jpg'); background-repeat: repeat-y; background-size: 200px;
+    
+}
+#pgreen{color: green;}
+#pred{
+    color: red;
+}
